@@ -1,0 +1,16 @@
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.MainForm.resources
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.csproj.GenerateResource.cache
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.AssemblyInfoInputs.cache
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.AssemblyInfo.cs
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.csproj.CoreCompileInputs.cache
+D:\repos\assignment3\bin\Debug\net8.0-windows\assignment3.exe
+D:\repos\assignment3\bin\Debug\net8.0-windows\assignment3.deps.json
+D:\repos\assignment3\bin\Debug\net8.0-windows\assignment3.runtimeconfig.json
+D:\repos\assignment3\bin\Debug\net8.0-windows\assignment3.dll
+D:\repos\assignment3\bin\Debug\net8.0-windows\assignment3.pdb
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.dll
+D:\repos\assignment3\obj\Debug\net8.0-windows\refint\assignment3.dll
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.pdb
+D:\repos\assignment3\obj\Debug\net8.0-windows\assignment3.genruntimeconfig.cache
+D:\repos\assignment3\obj\Debug\net8.0-windows\ref\assignment3.dll
