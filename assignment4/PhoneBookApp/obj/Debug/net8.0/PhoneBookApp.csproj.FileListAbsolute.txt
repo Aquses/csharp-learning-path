@@ -1,0 +1,14 @@
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.exe
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.deps.json
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.runtimeconfig.json
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.dll
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.pdb
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.AssemblyInfo.cs
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.dll
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\refint\PhoneBookApp.dll
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.pdb
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.genruntimeconfig.cache
+C:\Users\Eco-E\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net8.0\ref\PhoneBookApp.dll
